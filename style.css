@@ -1067,3 +1067,6 @@ h4 {
 .appreciation p {
     font-size: 18px;
 }
+.black {
+    color: #000000 !important;
+}
